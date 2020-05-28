@@ -1,0 +1,4 @@
+#para ignorar todos los archivos terminados en .txt
+*.txt
+#para ignorar todos los archivos terminados en .class
+*.class
